@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Ajay👋
 
-<!--
-**Ajayvarma1602/Ajayvarma1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Student, Developer!!
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other developers
+🥅 2020 Goals: Do more projects and gain knowledge
+⚡ Fun fact: I love to play cricket  
+Spotify Playing 🎧
+Ajay Spotify Playing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+ LinkedInAjayVarmaT. | Instagram
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3DJANGOPYTHON
+
