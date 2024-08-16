@@ -7,7 +7,7 @@ I'm a Student, Developer!!
 
 👯 I’m looking to collaborate with other developers
 
-🥅 2021 Goals: Do more projects and gain knowledge
+🥅 2024 Goals: Do more projects and gain knowledge
 
 ⚡ Fun fact: I love to play cricket
 
