@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ajay 👋</h1>
-<p align="center">Full Stack Dev-in-Progress | UI Engineer @ TechVirtue | Passionate about Accessibility & Clean Code</p>
+<p align="center">Full Stack Dev-in-Progress | Web Developer @ TechVirtue | Passionate about Accessibility & Clean Code</p>
 
 ---
 
@@ -28,7 +28,7 @@ My personal portfolio built using React + Vite, featuring creative UI, project m
 <p>
   <img src="https://img.shields.io/badge/HTML5-Frontend-orange?logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-Styling-blue?logo=css3" />
-   <img src="https://img.shields.io/badge/CSS3-Styling-blue?logo=scss3" />
+   <img src="https://img.shields.io/badge/SCSS-Styling-blue?logo=scss" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript" />
   <img src="https://img.shields.io/badge/React-SPA-blue?logo=react" />
   <img src="https://img.shields.io/badge/Node.js-APIs-green?logo=node.js" />
@@ -65,6 +65,5 @@ My personal portfolio built using React + Vite, featuring creative UI, project m
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajayvarma1602&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayvarma1602&layout=compact&theme=radical" height="160" />
 </p>
