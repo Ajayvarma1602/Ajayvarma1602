@@ -5,8 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 Student developer exploring front-end frameworks and backend integration with real-world projects.
-- 💼 Front-End Developer at **TechVirtue**, currently working on an **insurance e-commerce platform** for AXA — building multi-step forms, API integrations, and WCAG-compliant UI.
-- 🔍 Obsessed with building accessible, performant, and user-friendly apps that solve real problems.
+- 💼 Front-End Developer at **TechVirtue**.
 
 ---
 
@@ -39,12 +38,7 @@ My personal portfolio built using React + Vite, featuring creative UI, project m
 
 ---
 
-## 💼 Current Work @ TechVirtue (AXA Insurance Platform)
-- 🧩 Developing multi-step quote and policy forms with dynamic field rendering
-- 🔌 Connecting frontend with RESTful APIs for policy, claims, and account modules
-- ♿ Ensuring every flow is WCAG 2.1 compliant and screen-reader accessible
 
----
 
 ## 🎯 2025 Goals
 - 🚀 Contribute to production-grade open-source tools
