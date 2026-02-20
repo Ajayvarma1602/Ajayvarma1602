@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Ajay 👋</h1>
-<p align="center">Full Stack Dev-in-Progress | Web Developer @ TechVirtue | Passionate about Accessibility & Clean Code</p>
+<p align="center">Full Stack Dev-in-Progress | Software Engineer @Vonage Business | Passionate about Accessibility & Clean Code</p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Student developer exploring front-end frameworks and backend integration with real-world projects.
-- 💼 Front-End Developer at **TechVirtue**.
+- 💼 Software Engineer at **Vonage Business**.
 
 ---
 
@@ -40,9 +40,9 @@ My personal portfolio built using React + Vite, featuring creative UI, project m
 
 
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - 🚀 Contribute to production-grade open-source tools
-- 📈 Deepen experience in Vanilla Javascript, TypeScript, React
+- 📈 Deepen experience in Vanilla Javascript, TypeScript, React, Core Java, Postgresql
 - 🧠 Improve backend logic fluency and CI/CD pipeline knowledge
 - 🤝 Join a full-time engineering role that blends UI/UX + systems thinking
 
