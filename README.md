@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ajay Varma Tanniru 👋</h1>
 
 <p align="center">
-  <b>Senior Full-Stack Developer &nbsp;|&nbsp; TypeScript · Go · React · AI &nbsp;|&nbsp; 8+ Years of Enterprise Experience</b>
+  <b>Senior Full-Stack Developer &nbsp;|&nbsp; TypeScript · Go · React · AI &nbsp;|&nbsp; 7+ Years of Enterprise Experience</b>
 </p>
 
 <p align="center">
