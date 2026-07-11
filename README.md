@@ -8,9 +8,7 @@
   <a href="mailto:ajay.dev7337@gmail.com">
     <img src="https://img.shields.io/badge/Email-ajay.dev7337@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://ajayvarmaportfolio.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
 </p>
 
 ---
