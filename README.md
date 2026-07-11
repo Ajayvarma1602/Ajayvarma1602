@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Senior Full-Stack Developer** with **8+ years of experience** building scalable services and modern web applications across **energy, banking, telecom, and enterprise** domains. I build backend services in **Go** and **TypeScript/Node.js** (with legacy **Java/Spring Boot**), exposing **REST, gRPC, and GraphQL** APIs, paired with **React + TypeScript** frontends — reusable component libraries, Redux/Context state management, Next.js SSR, and accessible, ADA-compliant UIs. I also build **LLM-driven features** with **LangGraph and LangChain**, including RAG pipelines over vector databases integrated into production services.
+I'm a **Senior Full-Stack Developer** with **7+ years of experience** building scalable services and modern web applications across **energy, banking, telecom, and enterprise** domains. I build backend services in **Go** and **TypeScript/Node.js** (with legacy **Java/Spring Boot**), exposing **REST, gRPC, and GraphQL** APIs, paired with **React + TypeScript** frontends — reusable component libraries, Redux/Context state management, Next.js SSR, and accessible, ADA-compliant UIs. I also build **LLM-driven features** with **LangGraph and LangChain**, including RAG pipelines over vector databases integrated into production services.
 
 - 💼 Currently a **Senior Full Stack Developer at NRG (Reliant Energy)**, building customer-facing energy platform features for 1.5M+ Texas customers
 - 🎓 **M.S. in Computer Science** — St. Francis College, Brooklyn, NY (2023 – 2024)
@@ -140,7 +140,7 @@ Personal developer portfolio built with **React + Vite**, featuring animated pro
 
 ## 🎓 Education
 
-🎓 **Master of Science in Computer Science** — St. Francis College, Brooklyn, NY, USA &nbsp;|&nbsp; *Jan 2023 – May 2024*
+🎓 **Master of Science in Computer Science** — Rowan University, USA &nbsp;|&nbsp; *Jan 2023 – May 2024*
 
 🎓 **Bachelor of Technology in Computer Science & Engineering** — Sri Indu College of Engineering & Technology, India &nbsp;|&nbsp; *Jun 2014 – Jun 2018*
 
