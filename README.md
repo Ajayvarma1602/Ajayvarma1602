@@ -18,7 +18,7 @@
 I'm a **Senior Full-Stack Developer** with **7+ years of experience** building scalable services and modern web applications across **energy, banking, telecom, and enterprise** domains. I build backend services in **Go** and **TypeScript/Node.js** (with legacy **Java/Spring Boot**), exposing **REST, gRPC, and GraphQL** APIs, paired with **React + TypeScript** frontends — reusable component libraries, Redux/Context state management, Next.js SSR, and accessible, ADA-compliant UIs. I also build **LLM-driven features** with **LangGraph and LangChain**, including RAG pipelines over vector databases integrated into production services.
 
 - 💼 Currently a **Senior Full Stack Developer at NRG (Reliant Energy)**, building customer-facing energy platform features for 1.5M+ Texas customers
-- 🎓 **M.S. in Computer Science** — St. Francis College, Brooklyn, NY (2023 – 2024)
+- 🎓 **M.S. in Computer Science** — Rowan College, NJ (2023 – 2024)
 - 🏛️ **B.Tech in Computer Science & Engineering** — Sri Indu College of Engineering & Technology, India (2014 – 2018)
 - ☁️ Deep AWS experience: ECS Fargate, ALB, RDS, Secrets Manager, S3, ECR, CloudWatch, EKS, Lambda
 - 🏗️ Infrastructure as code with **Terraform** (private module registries, multi-region, multi-account) and **GitLab CI/CD**
